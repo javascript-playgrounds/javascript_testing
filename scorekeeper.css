@@ -1,0 +1,26 @@
+.winner {
+	color:chartreuse;
+}
+
+body{
+	background-image: url('http://kinetic-media.com/wp-content/uploads/2013/09/Default-568h@2x.png');
+}
+
+div{
+	text-align: center;
+}
+p{
+	color: blue;
+}
+h1{
+	color: blue;
+}
+.jumbotron {
+  background-image: url('http://cdn1.sportngin.com/attachments/photo/4268/9070/scorekeeper_large.jpg');
+  background-position: 0% 20%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+
+}
